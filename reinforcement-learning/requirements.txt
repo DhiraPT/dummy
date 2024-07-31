@@ -1,0 +1,9 @@
+gymnasium==0.29.1
+matplotlib==3.9.1
+numpy==1.26.4
+plotly==5.22.0
+stable_baselines3==2.3.2
+TA-Lib==0.4.32
+torch==2.5.0.dev20240704+cu124
+torchaudio==2.4.0.dev20240705+cu124
+torchvision==0.20.0.dev20240705+cu124
